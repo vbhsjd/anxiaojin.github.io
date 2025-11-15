@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://anxiaojin.github.io/</link>
+    <description>Recent content from My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    
+    <managingEditor>xxx@example.com (D-Sketon)</managingEditor>
+    <webMaster>xxx@example.com (D-Sketon)</webMaster>
+    
+    <copyright>All articles on this blog are licensed under the BY-NC-SA license agreement unless otherwise stated. Please indicate the source when reprinting!</copyright>
+    
+    <lastBuildDate>Sun, 16 Nov 2025 02:02:34 +0800</lastBuildDate>
+    
+    
+    <atom:link href="https://anxiaojin.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>Blog</title>
+      <link>https://anxiaojin.github.io/post/blog/</link>
+      <pubDate>Sun, 16 Nov 2025 02:02:34 &#43;0800</pubDate>
+      <author>xxx@example.com (D-Sketon)</author>
+      <guid>https://anxiaojin.github.io/post/blog/</guid>
+      <description>
+        <![CDATA[<h1>Blog</h1><p>Author: D-Sketon(xxx@example.com)</p>
+        
+          <h3 id="title2">
+<a class="header-anchor" href="#title2"></a>
+title2
+</h3>
+        
+        <hr><p>Published on 2025-11-16 at <a href='https://anxiaojin.github.io/'>My New Hugo Site</a>, last modified on 2025-11-16</p>]]>
+      </description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -3,21 +3,17 @@
   <channel>
     <title>Moments on My New Hugo Site</title>
     <link>https://example.org/moments/</link>
-    <description>Recent content from My New Hugo Site</description>
+    <description>Recent content in Moments on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    
-    <managingEditor>xxx@example.com (D-Sketon)</managingEditor>
-    <webMaster>xxx@example.com (D-Sketon)</webMaster>
-    
-    <copyright>All articles on this blog are licensed under the BY-NC-SA license agreement unless otherwise stated. Please indicate the source when reprinting!</copyright>
-    
-    <lastBuildDate></lastBuildDate>
-    
-    
-    <atom:link href="https://example.org/moments/index.xml" rel="self" type="application/rss&#43;xml" />
-    
-
-    
+    <lastBuildDate>Sun, 16 Nov 2025 09:59:52 +0800</lastBuildDate>
+    <atom:link href="https://example.org/moments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo_moment</title>
+      <link>https://example.org/moments/demo_moment/</link>
+      <pubDate>Sun, 16 Nov 2025 09:59:52 +0800</pubDate>
+      <guid>https://example.org/moments/demo_moment/</guid>
+      <description>&lt;h2 id=&#34;demo&#34;&gt;demo&lt;/h2&gt;</description>
+    </item>
   </channel>
 </rss>
